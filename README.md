@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alausaaisha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to use version control
-- 💞️ I’m looking to collaborate on students of like interest
+- 💞️ I’m looking to collaborate with students of like interest
 - 📫 How to reach me- email: qtaisha.ao@gmail.com
 
 <!---
